@@ -20,13 +20,13 @@
 [![Tiếng Việt](https://img.shields.io/badge/Ngôn%20ngữ-Tiếng%20Việt-red)](README_VI.md)
 
 
-## Subscription Links
-Main subscription link:
+## 구독 링크
+메인 구독 링크:
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
-Mirror links (use if GitHub is unstable):
+미러 링크 (GitHub이 불안정할 경우 사용):
 - https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
 
-## Disclaimer
+## 면책 조항
 
-This project is for educational and research purposes only. Users are responsible for complying with local laws and regulations when using these resources.
+이 프로젝트는 교육 및 연구 목적으로만 사용됩니다. 사용자는 이러한 리소스를 사용할 때 현지 법률 및 규정을 준수할 책임이 있습니다.

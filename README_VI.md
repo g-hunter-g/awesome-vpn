@@ -20,13 +20,13 @@
 [![Tiếng Việt](https://img.shields.io/badge/Ngôn%20ngữ-Tiếng%20Việt-red)](README_VI.md)
 
 
-## Subscription Links
-Main subscription link:
+## Liên kết đăng ký
+Liên kết đăng ký chính:
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
-Mirror links (use if GitHub is unstable):
+Liên kết mirror (sử dụng nếu GitHub không ổn định):
 - https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
 
-## Disclaimer
+## Từ chối trách nhiệm
 
-This project is for educational and research purposes only. Users are responsible for complying with local laws and regulations when using these resources.
+Dự án này chỉ dành cho mục đích giáo dục và nghiên cứu. Người dùng có trách nhiệm tuân thủ luật pháp và quy định địa phương khi sử dụng các tài nguyên này.
