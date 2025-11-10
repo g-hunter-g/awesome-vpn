@@ -25,7 +25,7 @@
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 镜像链接（如果 GitHub 不稳定时使用）：
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## 免责声明
 

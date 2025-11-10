@@ -25,7 +25,7 @@ Tautan langganan utama:
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 Tautan mirror (gunakan jika GitHub tidak stabil):
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## Penafian
 

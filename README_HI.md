@@ -25,7 +25,7 @@
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 मिरर लिंक (यदि GitHub अस्थिर है तो उपयोग करें):
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## अस्वीकरण
 

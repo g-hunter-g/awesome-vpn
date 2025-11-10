@@ -25,7 +25,7 @@ Haupt-Abonnement-Link:
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 Spiegel-Links (verwenden, wenn GitHub instabil ist):
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## Haftungsausschluss
 

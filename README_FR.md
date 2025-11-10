@@ -25,7 +25,7 @@ Lien d'abonnement principal :
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 Liens miroir (à utiliser si GitHub est instable) :
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## Clause de non-responsabilité
 

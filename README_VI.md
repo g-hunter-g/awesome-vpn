@@ -25,7 +25,7 @@ Liên kết đăng ký chính:
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 Liên kết mirror (sử dụng nếu GitHub không ổn định):
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## Từ chối trách nhiệm
 

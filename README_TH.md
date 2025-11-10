@@ -25,7 +25,7 @@
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 ลิงก์สำรอง (ใช้หาก GitHub ไม่เสถียร):
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## ข้อจำกัดความรับผิดชอบ
 

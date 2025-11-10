@@ -25,7 +25,7 @@
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 لینک‌های آینه (در صورت ناپایدار بودن GitHub استفاده کنید):
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## سلب مسئولیت
 

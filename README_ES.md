@@ -25,7 +25,7 @@ Enlace de suscripción principal:
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 Enlaces espejo (usar si GitHub es inestable):
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## Descargo de responsabilidad
 

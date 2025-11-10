@@ -25,7 +25,7 @@ Ana abonelik bağlantısı:
 - https://raw.githubusercontent.com/g-hunter-g/awesome-vpn/refs/heads/main/key.txt
 
 Yedek bağlantılar (GitHub kararsızsa kullanın):
-- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn/@main/key.txt
+- https://cdn.jsdelivr.net/gh/g-hunter-g/awesome-vpn@main/key.txt
 
 ## Sorumluluk Reddi
 
